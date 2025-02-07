@@ -3,6 +3,7 @@
 
 
 int main() {
+    
     char str1[2];
     char str2[9];
     scanf("%s", str1);
