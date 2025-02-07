@@ -5,7 +5,7 @@
 int main() {
     char str1[9];
     char str2[9];
-    scanf("%S",&str1);
+    scanf("%s",&str1);
     scanf("%s",&str2);
     printf("You entered: %S and %s\n",str1 , str2);
    
