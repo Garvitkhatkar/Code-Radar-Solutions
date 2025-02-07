@@ -5,8 +5,10 @@
 int main() {
     char str1[9];
     char str2[9];
-    scanf("%c",str1,str2);
-    printf("%c and %c",str1 , str2);
+    scanf("%s",&str1);
+    scanf("%s",&str2);
+    printf("%s and %s\n",str1 , str2);
+   
     
 
    
