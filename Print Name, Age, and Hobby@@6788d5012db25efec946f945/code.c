@@ -6,7 +6,7 @@ int main(){
     scanf("%s"&str1);
     scanf("%d",&a);
     scanf("%s",&str2);
-    print("%s\n %d\n %s",str1 , a,str2);
+    printf("%s\n %d\n %s",str1 , a,str2);
 
     
 }
