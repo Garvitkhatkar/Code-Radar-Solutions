@@ -6,5 +6,5 @@ int main(){
     scanf("%d",&b);
     scanf("%d",&c);
     float avg = (a+b+c)/3;
-    print("%f",avg);
+    printf("%f",avg);
 }
