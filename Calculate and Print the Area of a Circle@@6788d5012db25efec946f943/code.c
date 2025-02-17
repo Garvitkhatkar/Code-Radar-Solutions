@@ -2,6 +2,6 @@
 int main(){
     int radius = r;
     int area = 3.14*r*r;
-    printf("%f",area);
+    printf("Area: %f",area);
 
 }
