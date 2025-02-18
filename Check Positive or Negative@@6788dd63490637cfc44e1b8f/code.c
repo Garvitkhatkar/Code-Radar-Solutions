@@ -13,5 +13,5 @@ int main(){
         printf("Zero");
 
     }
-    return o;
+    return 0;
 }
