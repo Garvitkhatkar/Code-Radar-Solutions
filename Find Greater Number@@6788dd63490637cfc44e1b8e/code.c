@@ -7,7 +7,7 @@ int main(){
 
     }
     else{
-        printf("%d",y):
+        printf("%d",y);
 
     }
 }
