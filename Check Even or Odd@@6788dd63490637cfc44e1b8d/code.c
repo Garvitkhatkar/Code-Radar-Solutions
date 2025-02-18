@@ -6,7 +6,7 @@ int main(){
         print("Even %d",num);
     }
     else{
-        printf("Odd %d");
+        printf("Odd ");
     }
     
 }
