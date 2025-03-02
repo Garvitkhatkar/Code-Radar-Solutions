@@ -2,7 +2,7 @@
 int main(){
     int a,b;
     sacnf("%d%d",&a,&b);
-    if(<=b){
+    if(a<=b){
         printf("True");
     }
     else{
