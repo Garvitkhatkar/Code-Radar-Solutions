@@ -1,12 +1,18 @@
-#include<stdio.h>
-int main(){
-    char ch;
-    scanf("%c",&ch);
-    if(ch >= 'A' && ch <= 'Z'){
-        printf("Uppercase");
-    }
-    if(ch >= 'a' && ch <= 'z'){
+#include <stdio.h>
+
+char* welcome() {
+    return "Welcome to Code Radar!";
+}
+
+int main() {
+    char c;
+    scanf("%c",&c);
+    int p=(int)(c);
+    if(p>=97 && p<=124){
         printf("Lowercase");
+    }
+    else if(p>=65 && p<=90){
+        printf("Uppercase");
     }
     else{
         printf("Not an alphabet");
