@@ -8,7 +8,8 @@ int main(){
     if (b>a || b>c){
         printf(b);
     }
-    else{
+    if (c>a || c>b){
         printf(c);
     }
-}
+        
+    }
