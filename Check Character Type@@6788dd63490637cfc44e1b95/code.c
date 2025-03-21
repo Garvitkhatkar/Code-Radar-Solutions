@@ -11,13 +11,12 @@ int main(){
         }    
         else{
             printf("Consonant");
-        }
-
-        
+        }   
+    }
      else{
         printf("Special Character");
      }   
-    }
+    
 
     
     
