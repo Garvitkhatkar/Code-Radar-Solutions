@@ -6,6 +6,6 @@ int main(){
         for(int j=0;j<i;j++){
             printf("* ",j);
         }
-        printf("\n",j);
+        printf("\n");
     }
 }
