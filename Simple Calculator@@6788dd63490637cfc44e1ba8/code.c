@@ -7,14 +7,14 @@ int main(){
     if (c == '+'){
         printf("%d",a+b);
     }
-    else if (c=='-'){
+    else if (c == '-'){
         printf("%d",a-b);
     }
-    else if(c=='*'){
+    else if(c == '*'){
         printf("%d",a*b);
     }
-    else if(c=='/'){
-        if (b==0){
+    else if(c == '/'){
+        if (b == 0){
             printf("error");
         }
         else {
