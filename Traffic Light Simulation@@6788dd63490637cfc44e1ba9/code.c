@@ -12,6 +12,6 @@ int main(){
         printf("Slow Down");
     }
     else{
-        printf("Invaid input");
+        printf("Invalid input");
     }
 }
